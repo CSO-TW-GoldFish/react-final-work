@@ -55,8 +55,8 @@ function SignUp() {
         <div id="signUpPage" className="bg-yellow">
             <div className="container signUpPage vhContainer">
                 <div className="side">
-                    <a href="#"><img className="logoImg" src="/logo_lg.svg" alt="" /></a>
-                    <img className="d-m-n" src="/left.svg" alt="workImg" />
+                    <a href="#"><img className="logoImg" src="/react-final-work/logo_lg.svg" alt="" /></a>
+                    <img className="d-m-n" src="/react-final-work/left.svg" alt="workImg" />
                 </div>
                 <div>
                     <form className="formControls" action="index.html">
