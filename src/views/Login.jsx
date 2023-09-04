@@ -40,7 +40,7 @@ function Login() {
         <div id="loginPage" className="bg-yellow">
             <div className="container loginPage vhContainer ">
                 <div className="side">
-                    <a href="#"><img className="logoImg" src="/react-final-work/logo_lg.svg" alt="" /></a>
+                    <a href="/react-final-work/#"><img className="logoImg" src="/react-final-work/logo_lg.svg" alt="" /></a>
                     <img className="d-m-n" src="/react-final-work/left.svg" alt="workImg" />
                 </div>
                 <div>

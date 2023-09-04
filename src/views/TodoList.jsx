@@ -172,9 +172,9 @@ function TodoList() {
     return (
         <div id="todoListPage" className="bg-half">
         <nav>
-            <h1><a href="/#/todoList" style={{backgroundImage: 'url("/react-final-work/logo.svg")'}}>ONLINE TODO LIST</a></h1>
+            <h1><a href="/react-final-work/#/todoList" style={{backgroundImage: 'url("/react-final-work/logo.svg")'}}>ONLINE TODO LIST</a></h1>
             <ul>
-                <li className="todo_sm"><a href="#/todoList"><span>{nickname}的待辦</span></a></li>
+                <li className="todo_sm"><a href="/react-final-work/#/todoList"><span>{nickname}的待辦</span></a></li>
                 <li><NavLink to="/" onClick={() => signOut()}>登出</NavLink></li>
             </ul>
         </nav>
